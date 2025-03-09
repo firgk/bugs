@@ -78,15 +78,15 @@ CRC 校验失败 : word\media\image42.jpeg
 
 解决方法：
 修复word文档
-[](./src/20253101.png)
-[](./src/20253102.png)
+![](./src/20253101.png)
+![](./src/20253102.png)
 
 
 
 例子
 
+!(./src/方剂学_损坏文件.docx)
 
-[](./src/方剂学_损坏文件.docx)
 
 
 
